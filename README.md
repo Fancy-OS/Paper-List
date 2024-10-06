@@ -16,6 +16,7 @@
 
 |                            Paper                             |    Keywords    | Others |
 | :----------------------------------------------------------: | :------------: | :----: |
+| [Slices](https://github.com/bzssm/15-712-Advanced-and-Distributed-Operating-Systems)
 | [MapReduce: Simplified Data Processing on Large Clusters](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15712-s12/www/papers//dean04.pdf) |    |    |
 | [Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15712-s12/www/papers//isard07.pdf) |  | |
 | [FAWN: A Fast Array of Wimpy Nodes](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15712-s12/www/papers//andersen09.pdf)| |
